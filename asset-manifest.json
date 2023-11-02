@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/KFCTE_NAU_Frontend/static/css/main.f96fec1f.css",
-    "main.js": "/KFCTE_NAU_Frontend/static/js/main.e2e5a115.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/KFCTE_NAU_Frontend/static/js/787.c4e7f8f9.chunk.js",
+    "main.css": "/KFCTE_NAU_Frontend/static/css/main.2f76fd05.css",
+    "main.js": "/KFCTE_NAU_Frontend/static/js/main.0c619dc8.js",
     "static/media/logo_1.png": "/KFCTE_NAU_Frontend/static/media/logo_1.6da04c75dee34be7d0e6.png",
     "index.html": "/KFCTE_NAU_Frontend/index.html",
-    "main.f96fec1f.css.map": "/KFCTE_NAU_Frontend/static/css/main.f96fec1f.css.map",
-    "main.e2e5a115.js.map": "/KFCTE_NAU_Frontend/static/js/main.e2e5a115.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/KFCTE_NAU_Frontend/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.2f76fd05.css.map": "/KFCTE_NAU_Frontend/static/css/main.2f76fd05.css.map",
+    "main.0c619dc8.js.map": "/KFCTE_NAU_Frontend/static/js/main.0c619dc8.js.map"
   },
   "entrypoints": [
-    "static/css/main.f96fec1f.css",
-    "static/js/main.e2e5a115.js"
+    "static/css/main.2f76fd05.css",
+    "static/js/main.0c619dc8.js"
   ]
 }
