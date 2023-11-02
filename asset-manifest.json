@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/KFCTE_NAU_Frontend/static/css/main.f96fec1f.css",
-    "main.js": "/KFCTE_NAU_Frontend/static/js/main.e2e5a115.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/KFCTE_NAU_Frontend/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/logo_1.png": "/KFCTE_NAU_Frontend/static/media/logo_1.6da04c75dee34be7d0e6.png",
-    "index.html": "/KFCTE_NAU_Frontend/index.html",
-    "main.f96fec1f.css.map": "/KFCTE_NAU_Frontend/static/css/main.f96fec1f.css.map",
-    "main.e2e5a115.js.map": "/KFCTE_NAU_Frontend/static/js/main.e2e5a115.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/KFCTE_NAU_Frontend/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/Hub-Of-Coding/KFCTE_NAU_Frontend/static/css/main.f96fec1f.css",
+    "main.js": "/Hub-Of-Coding/KFCTE_NAU_Frontend/static/js/main.9e8da1ed.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Hub-Of-Coding/KFCTE_NAU_Frontend/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/logo_1.png": "/Hub-Of-Coding/KFCTE_NAU_Frontend/static/media/logo_1.6da04c75dee34be7d0e6.png",
+    "index.html": "/Hub-Of-Coding/KFCTE_NAU_Frontend/index.html",
+    "main.f96fec1f.css.map": "/Hub-Of-Coding/KFCTE_NAU_Frontend/static/css/main.f96fec1f.css.map",
+    "main.9e8da1ed.js.map": "/Hub-Of-Coding/KFCTE_NAU_Frontend/static/js/main.9e8da1ed.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Hub-Of-Coding/KFCTE_NAU_Frontend/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f96fec1f.css",
-    "static/js/main.e2e5a115.js"
+    "static/js/main.9e8da1ed.js"
   ]
 }
