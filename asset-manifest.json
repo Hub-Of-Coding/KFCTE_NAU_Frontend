@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/KFCTE_NAU/static/css/main.f96fec1f.css",
+    "main.js": "/KFCTE_NAU/static/js/main.efef988b.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/KFCTE_NAU/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/logo_1.png": "/KFCTE_NAU/static/media/logo_1.6da04c75dee34be7d0e6.png",
+    "index.html": "/KFCTE_NAU/index.html",
+    "main.f96fec1f.css.map": "/KFCTE_NAU/static/css/main.f96fec1f.css.map",
+    "main.efef988b.js.map": "/KFCTE_NAU/static/js/main.efef988b.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/KFCTE_NAU/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f96fec1f.css",
+    "static/js/main.efef988b.js"
+  ]
+}
